@@ -1,0 +1,12 @@
+<h2>{{ title }}</h2>
+
+<form #form="ngForm" (ngSubmit)="submitted = true">
+  <label>Name: <input name="name" ngModel /></label><br />
+  <label>Age: <input name="age" ngModel /></label><br />
+  <label>Email: <input name="email" ngModel /></label><br />
+  <button type="submit">Submit</button>
+</form>
+
+<div *ngIf="submitted">
+  <h3>Submitted!</h3>
+</div>
