@@ -1,0 +1,35 @@
+C:\Users\Divya\source\repos\Target\Target API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Divya\source\repos\Target\Target API\bin\Debug\net8.0\appsettings.json
+C:\Users\Divya\source\repos\Target\Target API\bin\Debug\net8.0\Target API.staticwebassets.endpoints.json
+C:\Users\Divya\source\repos\Target\Target API\bin\Debug\net8.0\Target API.exe
+C:\Users\Divya\source\repos\Target\Target API\bin\Debug\net8.0\Target API.deps.json
+C:\Users\Divya\source\repos\Target\Target API\bin\Debug\net8.0\Target API.runtimeconfig.json
+C:\Users\Divya\source\repos\Target\Target API\bin\Debug\net8.0\Target API.dll
+C:\Users\Divya\source\repos\Target\Target API\bin\Debug\net8.0\Target API.pdb
+C:\Users\Divya\source\repos\Target\Target API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Divya\source\repos\Target\Target API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Divya\source\repos\Target\Target API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Divya\source\repos\Target\Target API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Divya\source\repos\Target\Target API\obj\Debug\net8.0\Target API.csproj.AssemblyReference.cache
+C:\Users\Divya\source\repos\Target\Target API\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Divya\source\repos\Target\Target API\obj\Debug\net8.0\Target API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Divya\source\repos\Target\Target API\obj\Debug\net8.0\Target API.AssemblyInfoInputs.cache
+C:\Users\Divya\source\repos\Target\Target API\obj\Debug\net8.0\Target API.AssemblyInfo.cs
+C:\Users\Divya\source\repos\Target\Target API\obj\Debug\net8.0\Target API.csproj.CoreCompileInputs.cache
+C:\Users\Divya\source\repos\Target\Target API\obj\Debug\net8.0\Target API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Divya\source\repos\Target\Target API\obj\Debug\net8.0\Target API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Divya\source\repos\Target\Target API\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Divya\source\repos\Target\Target API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Divya\source\repos\Target\Target API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Divya\source\repos\Target\Target API\obj\Debug\net8.0\scopedcss\bundle\Target API.styles.css
+C:\Users\Divya\source\repos\Target\Target API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Divya\source\repos\Target\Target API\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Divya\source\repos\Target\Target API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Divya\source\repos\Target\Target API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Divya\source\repos\Target\Target API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Divya\source\repos\Target\Target API\obj\Debug\net8.0\Target API.csproj.Up2Date
+C:\Users\Divya\source\repos\Target\Target API\obj\Debug\net8.0\Target API.dll
+C:\Users\Divya\source\repos\Target\Target API\obj\Debug\net8.0\refint\Target API.dll
+C:\Users\Divya\source\repos\Target\Target API\obj\Debug\net8.0\Target API.pdb
+C:\Users\Divya\source\repos\Target\Target API\obj\Debug\net8.0\Target API.genruntimeconfig.cache
+C:\Users\Divya\source\repos\Target\Target API\obj\Debug\net8.0\ref\Target API.dll
