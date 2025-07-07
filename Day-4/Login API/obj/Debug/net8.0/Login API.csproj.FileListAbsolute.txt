@@ -1,0 +1,9 @@
+C:\Users\Divya\source\repos\Login\Login API\obj\Debug\net8.0\Login API.csproj.AssemblyReference.cache
+C:\Users\Divya\source\repos\Login\Login API\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Divya\source\repos\Login\Login API\obj\Debug\net8.0\Login API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Divya\source\repos\Login\Login API\obj\Debug\net8.0\Login API.AssemblyInfoInputs.cache
+C:\Users\Divya\source\repos\Login\Login API\obj\Debug\net8.0\Login API.AssemblyInfo.cs
+C:\Users\Divya\source\repos\Login\Login API\obj\Debug\net8.0\Login API.csproj.CoreCompileInputs.cache
+C:\Users\Divya\source\repos\Login\Login API\obj\Debug\net8.0\Login API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Divya\source\repos\Login\Login API\obj\Debug\net8.0\Login API.RazorAssemblyInfo.cache
+C:\Users\Divya\source\repos\Login\Login API\obj\Debug\net8.0\Login API.RazorAssemblyInfo.cs
