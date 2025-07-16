@@ -1,0 +1,15 @@
+C:\Users\Divya\Downloads\ci_platfrom_api-develop\ci_platfrom_api-develop\Mission.Repository\bin\Debug\net8.0\Mission.Repository.deps.json
+C:\Users\Divya\Downloads\ci_platfrom_api-develop\ci_platfrom_api-develop\Mission.Repository\bin\Debug\net8.0\Mission.Repository.dll
+C:\Users\Divya\Downloads\ci_platfrom_api-develop\ci_platfrom_api-develop\Mission.Repository\bin\Debug\net8.0\Mission.Repository.pdb
+C:\Users\Divya\Downloads\ci_platfrom_api-develop\ci_platfrom_api-develop\Mission.Repository\bin\Debug\net8.0\Mission.Entity.dll
+C:\Users\Divya\Downloads\ci_platfrom_api-develop\ci_platfrom_api-develop\Mission.Repository\bin\Debug\net8.0\Mission.Entity.pdb
+C:\Users\Divya\Downloads\ci_platfrom_api-develop\ci_platfrom_api-develop\Mission.Repository\obj\Debug\net8.0\Mission.Repository.csproj.AssemblyReference.cache
+C:\Users\Divya\Downloads\ci_platfrom_api-develop\ci_platfrom_api-develop\Mission.Repository\obj\Debug\net8.0\Mission.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Divya\Downloads\ci_platfrom_api-develop\ci_platfrom_api-develop\Mission.Repository\obj\Debug\net8.0\Mission.Repository.AssemblyInfoInputs.cache
+C:\Users\Divya\Downloads\ci_platfrom_api-develop\ci_platfrom_api-develop\Mission.Repository\obj\Debug\net8.0\Mission.Repository.AssemblyInfo.cs
+C:\Users\Divya\Downloads\ci_platfrom_api-develop\ci_platfrom_api-develop\Mission.Repository\obj\Debug\net8.0\Mission.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Divya\Downloads\ci_platfrom_api-develop\ci_platfrom_api-develop\Mission.Repository\obj\Debug\net8.0\Mission..3D476D22.Up2Date
+C:\Users\Divya\Downloads\ci_platfrom_api-develop\ci_platfrom_api-develop\Mission.Repository\obj\Debug\net8.0\Mission.Repository.dll
+C:\Users\Divya\Downloads\ci_platfrom_api-develop\ci_platfrom_api-develop\Mission.Repository\obj\Debug\net8.0\refint\Mission.Repository.dll
+C:\Users\Divya\Downloads\ci_platfrom_api-develop\ci_platfrom_api-develop\Mission.Repository\obj\Debug\net8.0\Mission.Repository.pdb
+C:\Users\Divya\Downloads\ci_platfrom_api-develop\ci_platfrom_api-develop\Mission.Repository\obj\Debug\net8.0\ref\Mission.Repository.dll

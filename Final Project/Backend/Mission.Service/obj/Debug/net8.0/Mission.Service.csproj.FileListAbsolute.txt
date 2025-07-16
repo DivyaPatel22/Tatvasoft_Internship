@@ -1,0 +1,17 @@
+C:\Users\Divya\Downloads\ci_platfrom_api-develop\ci_platfrom_api-develop\Mission.Service\bin\Debug\net8.0\Mission.Service.deps.json
+C:\Users\Divya\Downloads\ci_platfrom_api-develop\ci_platfrom_api-develop\Mission.Service\bin\Debug\net8.0\Mission.Service.dll
+C:\Users\Divya\Downloads\ci_platfrom_api-develop\ci_platfrom_api-develop\Mission.Service\bin\Debug\net8.0\Mission.Service.pdb
+C:\Users\Divya\Downloads\ci_platfrom_api-develop\ci_platfrom_api-develop\Mission.Service\bin\Debug\net8.0\Mission.Entity.dll
+C:\Users\Divya\Downloads\ci_platfrom_api-develop\ci_platfrom_api-develop\Mission.Service\bin\Debug\net8.0\Mission.Repository.dll
+C:\Users\Divya\Downloads\ci_platfrom_api-develop\ci_platfrom_api-develop\Mission.Service\bin\Debug\net8.0\Mission.Repository.pdb
+C:\Users\Divya\Downloads\ci_platfrom_api-develop\ci_platfrom_api-develop\Mission.Service\bin\Debug\net8.0\Mission.Entity.pdb
+C:\Users\Divya\Downloads\ci_platfrom_api-develop\ci_platfrom_api-develop\Mission.Service\obj\Debug\net8.0\Mission.Service.csproj.AssemblyReference.cache
+C:\Users\Divya\Downloads\ci_platfrom_api-develop\ci_platfrom_api-develop\Mission.Service\obj\Debug\net8.0\Mission.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Divya\Downloads\ci_platfrom_api-develop\ci_platfrom_api-develop\Mission.Service\obj\Debug\net8.0\Mission.Service.AssemblyInfoInputs.cache
+C:\Users\Divya\Downloads\ci_platfrom_api-develop\ci_platfrom_api-develop\Mission.Service\obj\Debug\net8.0\Mission.Service.AssemblyInfo.cs
+C:\Users\Divya\Downloads\ci_platfrom_api-develop\ci_platfrom_api-develop\Mission.Service\obj\Debug\net8.0\Mission.Service.csproj.CoreCompileInputs.cache
+C:\Users\Divya\Downloads\ci_platfrom_api-develop\ci_platfrom_api-develop\Mission.Service\obj\Debug\net8.0\Mission..98EB27E1.Up2Date
+C:\Users\Divya\Downloads\ci_platfrom_api-develop\ci_platfrom_api-develop\Mission.Service\obj\Debug\net8.0\Mission.Service.dll
+C:\Users\Divya\Downloads\ci_platfrom_api-develop\ci_platfrom_api-develop\Mission.Service\obj\Debug\net8.0\refint\Mission.Service.dll
+C:\Users\Divya\Downloads\ci_platfrom_api-develop\ci_platfrom_api-develop\Mission.Service\obj\Debug\net8.0\Mission.Service.pdb
+C:\Users\Divya\Downloads\ci_platfrom_api-develop\ci_platfrom_api-develop\Mission.Service\obj\Debug\net8.0\ref\Mission.Service.dll
