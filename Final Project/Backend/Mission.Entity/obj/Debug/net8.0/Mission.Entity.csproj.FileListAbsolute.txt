@@ -1,0 +1,14 @@
+C:\Users\Divya\Downloads\ci_platfrom_api-develop\ci_platfrom_api-develop\Mission.Entity\bin\Debug\net8.0\Mission.Entity.deps.json
+C:\Users\Divya\Downloads\ci_platfrom_api-develop\ci_platfrom_api-develop\Mission.Entity\bin\Debug\net8.0\Mission.Entity.runtimeconfig.json
+C:\Users\Divya\Downloads\ci_platfrom_api-develop\ci_platfrom_api-develop\Mission.Entity\bin\Debug\net8.0\Mission.Entity.dll
+C:\Users\Divya\Downloads\ci_platfrom_api-develop\ci_platfrom_api-develop\Mission.Entity\bin\Debug\net8.0\Mission.Entity.pdb
+C:\Users\Divya\Downloads\ci_platfrom_api-develop\ci_platfrom_api-develop\Mission.Entity\obj\Debug\net8.0\Mission.Entity.csproj.AssemblyReference.cache
+C:\Users\Divya\Downloads\ci_platfrom_api-develop\ci_platfrom_api-develop\Mission.Entity\obj\Debug\net8.0\Mission.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Divya\Downloads\ci_platfrom_api-develop\ci_platfrom_api-develop\Mission.Entity\obj\Debug\net8.0\Mission.Entity.AssemblyInfoInputs.cache
+C:\Users\Divya\Downloads\ci_platfrom_api-develop\ci_platfrom_api-develop\Mission.Entity\obj\Debug\net8.0\Mission.Entity.AssemblyInfo.cs
+C:\Users\Divya\Downloads\ci_platfrom_api-develop\ci_platfrom_api-develop\Mission.Entity\obj\Debug\net8.0\Mission.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Divya\Downloads\ci_platfrom_api-develop\ci_platfrom_api-develop\Mission.Entity\obj\Debug\net8.0\Mission.Entity.dll
+C:\Users\Divya\Downloads\ci_platfrom_api-develop\ci_platfrom_api-develop\Mission.Entity\obj\Debug\net8.0\refint\Mission.Entity.dll
+C:\Users\Divya\Downloads\ci_platfrom_api-develop\ci_platfrom_api-develop\Mission.Entity\obj\Debug\net8.0\Mission.Entity.pdb
+C:\Users\Divya\Downloads\ci_platfrom_api-develop\ci_platfrom_api-develop\Mission.Entity\obj\Debug\net8.0\Mission.Entity.genruntimeconfig.cache
+C:\Users\Divya\Downloads\ci_platfrom_api-develop\ci_platfrom_api-develop\Mission.Entity\obj\Debug\net8.0\ref\Mission.Entity.dll
