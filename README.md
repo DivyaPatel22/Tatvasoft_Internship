@@ -41,7 +41,7 @@ The goal of this project was to build a fully functional full-stack web applicat
 ⚙️ Setup Instructions 
 
 1. Clone the repository :
-       git clone https://github.com/yourusername/internship-project-2025.git
+       git clone https://github.com/DivyaPatel22/Tatvasoft_Internship
 2. Backend (.NET) :
        dotnet restore
        dotnet run
